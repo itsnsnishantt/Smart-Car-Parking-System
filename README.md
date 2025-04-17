@@ -27,5 +27,5 @@ Stage-2: The car will enter into the parking area at that time person doesn't kn
 
 Stage-3: The operation of exit side will be same as that of the entrance. When the car is leaving the parking area, the IR sensor that is present before the OUT gate will detect the passing vehicle and the gate will be opened automatically. 
 
-Stage-4: In front of the parking area, there will be an LCD display that is used to show the status of the parking the parking slots, whether the is available or not. 
+Stage-4: In front of the parking area, there will be an LCD display that is used to show the status of the parking the parking slots, whether the slot is available or not. 
 
